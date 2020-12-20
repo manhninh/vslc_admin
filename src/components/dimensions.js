@@ -1,0 +1,15 @@
+export default {
+  HEADER: 60,
+  BUTTON: 200,
+  BODY_PADDING: 5,
+  SUPER_EXTRA: 30,
+  EXTRA: 25,
+  LARGE: 18,
+  NORMAL: 16,
+  SMALL: 14,
+  TINY: 10,
+  H1: 40,
+  H2: 34,
+  H3: 28,
+  H4: 22,
+};

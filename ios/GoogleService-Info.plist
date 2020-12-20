@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>521220104873-tfi5nk6ql6b6reqvm6qcssnl0q90cqtd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.521220104873-tfi5nk6ql6b6reqvm6qcssnl0q90cqtd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>521220104873-0n8nt8fhhhqme2av63fvfn8ir26ohvco.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlphWy0gLbniYbtIe0IIE8IEXSPi9sDeM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>521220104873</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vslc</string>
+	<key>PROJECT_ID</key>
+	<string>vslc-34093</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vslc-34093.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:521220104873:ios:cee3398851da38eb3dbfb8</string>
+	<key>DATABASE_URL</key>
+	<string>https://vslc-34093.firebaseio.com</string>
+</dict>
+</plist>
