@@ -14,8 +14,8 @@ class SingIn extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      username: 'admin',
-      password: '123456',
+      username: '',
+      password: '',
     };
   }
 
